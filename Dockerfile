@@ -1,6 +1,6 @@
 FROM google/cloud-sdk:228.0.0-alpine
 
-LABEL Maintainer="Vikram Somavaram"
+LABEL Maintainer = "Vikram Somavaram"
 
 ENV HELM_VERSION v3.0.2
 
